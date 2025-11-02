@@ -19,7 +19,7 @@ This repository contains the code and setup for minting the **HARDIK Token (HK)*
 
 ## 📸 Screenshot
 
-![HARDIK Token Overview](./bb34e3b0-92af-4c7b-b1b4-457d43ff6f70.png)
+![HARDIK Token Overview]![alt text](image-1.png)
 
 ---
 
